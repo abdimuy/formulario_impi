@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "formulario",
+    "libraryId": "c84fccf9-4a13-4a32-acb2-38a052e585b5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "formulario",
+    "solutionShortDescription": "formulario description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
